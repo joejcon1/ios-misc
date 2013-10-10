@@ -1,6 +1,5 @@
 //
 //  PFLogcat.m
-//  Paperfold
 //
 //  Created by Joseph Conway on 17/05/2013.
 //  Copyright (c) 2013 letolab. All rights reserved.
